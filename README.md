@@ -1,4 +1,5 @@
 # CECS 378 Lab: Symmetric Cryptography
+### My writeup is available at [DELIVERABLE_ARTIFACTS.md](DELIVERABLE_ARTIFACTS.md)
 
 ## Assignment Description
 
